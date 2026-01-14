@@ -1,0 +1,3 @@
+# Snake Game
+
+A console-based snake game with three different game modes. Control your snake using arrow keys or other keyboard controls to eat food and grow longer. Avoid hitting yourself or the boundaries. The first mode has no walls, the second mode has closed boundaries, and the third mode lets you play with two other snakes competing to reach the highest score. Eat the red food to grow and gain points. The game gets challenging as your snake gets longer. This is the classic NOKIA SNAKE GAME that we all have played before. I have implemented it using C++ and pixel art on console. 
